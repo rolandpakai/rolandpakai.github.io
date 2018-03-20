@@ -30,6 +30,11 @@
 	
 }
 
+.footer-btm {
+	margin-top: 5px;
+    padding: 5px;
+}
+
 @supports not(display:grid) {
  .gridcontainer, [class^="item"] {
   display: none;
